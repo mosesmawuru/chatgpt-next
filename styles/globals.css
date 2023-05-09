@@ -68,7 +68,7 @@
 }
 
 .input-user-chat-bg-true {
-  @apply bg-[#8774e1];
+  @apply bg-[#1976F0];
  }
 
 .input-user-chat-bg-false {
